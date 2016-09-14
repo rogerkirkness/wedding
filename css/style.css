@@ -809,8 +809,7 @@
 		background-size: 25em, 25em, auto, cover;
 		color: white;
 		cursor: default;
-		padding-bottom: 500px;
-		padding-top: 200px;
+		padding-bottom: 300px;
 		text-align: center;
 	}
 
@@ -830,6 +829,7 @@
 			display: inline-block;
 			opacity: 0;
 			padding: 3em;
+			margin-bottom: 300px;
 			text-align: center;
 		}
 
