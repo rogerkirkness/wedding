@@ -637,7 +637,7 @@
 			}
 
 		#header nav {
-			letter-spacing: 0.075em;
+			letter-spacing: 0.070em;
 			position: absolute;
 			right: 1.5em;
 			text-transform: uppercase;
@@ -646,7 +646,7 @@
 
 			#header nav ul li {
 				display: inline-block;
-				margin-left: 1.5em;
+				margin-left: 1.3em;
 			}
 
 				#header nav ul li > ul {
@@ -658,7 +658,7 @@
 					color: inherit;
 					display: inline-block;
 					line-height: 1em;
-					padding: 0.6em 0.75em;
+					padding: 0.6em 0.70em;
 					text-decoration: none;
 				}
 
@@ -666,7 +666,7 @@
 				#header nav ul li input[type="submit"],
 				#header nav ul li input[type="reset"],
 				#header nav ul li .button {
-					font-size: 1em;
+					font-size: 0.9em;
 					min-width: 0;
 					width: auto;
 				}
