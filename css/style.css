@@ -27,7 +27,7 @@
 	}
 
 	body, input, select, textarea {
-		color: rgb(178, 95, 220);
+		color: #ffaafa;
 		font-family: 'Lato', sans-serif;
 		font-size: 15pt;
 		font-weight: 300;
@@ -483,7 +483,7 @@
 			}
 
 			table.default thead {
-				background: rgb(178, 95, 220);
+				background: #ffaafa;
 				color: #fff;
 			}
 
@@ -531,8 +531,8 @@
 		input[type="submit"].special,
 		input[type="reset"].special,
 		.button.special {
-			background: #b25fdc;
-			border-color: #b25fdc;
+			background: #ffaafa;
+			border-color: #ffaafa;
 			color: white !important;
 		}
 
@@ -540,8 +540,8 @@
 			input[type="submit"].special:hover,
 			input[type="reset"].special:hover,
 			.button.special:hover {
-				background: #b25fdc !important;
-				border-color: #b25fdc !important;
+				background: #ffaafa !important;
+				border-color: #ffaafa !important;
 			}
 
 		input[type="button"].fit,
@@ -921,7 +921,7 @@
 
 	#footer {
 		background: #e8eef4;
-		color: rgb(178, 95, 220);
+		color: #ffaafa;
 		padding: 5em 5em 10em 5em;
 		text-align: center;
 	}
