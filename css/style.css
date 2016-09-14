@@ -657,7 +657,7 @@
 					color: inherit;
 					display: inline-block;
 					line-height: 1em;
-					padding: 0.6em 0.70em;
+					padding: 0.5em 0.5em;
 					text-decoration: none;
 				}
 
@@ -665,7 +665,7 @@
 				#header nav ul li input[type="submit"],
 				#header nav ul li input[type="reset"],
 				#header nav ul li .button {
-					font-size: 0.9em;
+					font-size: 0.8em;
 					min-width: 0;
 					width: auto;
 				}
@@ -681,7 +681,7 @@
 
 				#header nav ul li.submenu > a:before {
 					content: '\f107';
-					margin-right: 0.65em;
+					margin-right: 0.5em;
 				}
 
 				#header nav ul li.active > a, #header nav ul li:hover > a {
