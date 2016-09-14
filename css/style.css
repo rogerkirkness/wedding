@@ -95,13 +95,13 @@
 	}
 
 	hr {
-		border-top: solid 1px rgba(178, 95, 220, 0.2);
+		border-top: solid 1px #D7C3DE;
 		border: 0;
 		margin-bottom: 1.5em;
 	}
 
 	blockquote {
-		border-left: solid 0.5em rgba(178, 95, 220, 0.2);
+		border-left: solid 0.5em #D7C3DE;
 		font-style: italic;
 		padding: 1em 0 1em 2em;
 	}
@@ -191,7 +191,7 @@
 		-ms-appearance: none;
 		appearance: none;
 		background: none;
-		border: solid 1px rgba(178, 95, 220, 0.2);
+		border: solid 1px #D7C3DE;
 		color: inherit;
 		display: block;
 		padding: 0.75em;
@@ -469,7 +469,7 @@
 		}
 
 			table.default tbody tr {
-				border-bottom: solid 1px rgba(178, 95, 220, 0.2);
+				border-bottom: solid 1px #D7C3DE;
 			}
 
 			table.default td {
@@ -769,7 +769,7 @@
 			}
 
 		.dropotron > li {
-			border-top: solid 1px rgba(178, 95, 220, 0.2);
+			border-top: solid 1px #D7C3DE;
 		}
 
 			.dropotron > li > a {
@@ -883,7 +883,7 @@
 		}
 
 		#main .sidebar section {
-			border-top: solid 1px rgba(178, 95, 220, 0.2);
+			border-top: solid 1px #D7C3DE;
 			margin: 3em 0 0 0;
 			padding: 3em 0 0 0;
 		}
