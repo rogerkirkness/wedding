@@ -657,7 +657,7 @@
 					color: inherit;
 					display: inline-block;
 					line-height: 1em;
-					padding: 0.5em 0.5em;
+					padding: 0.6em 0.6em;
 					text-decoration: none;
 				}
 
@@ -665,7 +665,7 @@
 				#header nav ul li input[type="submit"],
 				#header nav ul li input[type="reset"],
 				#header nav ul li .button {
-					font-size: 0.8em;
+					font-size: 1em;
 					min-width: 0;
 					width: auto;
 				}
