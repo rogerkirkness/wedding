@@ -809,7 +809,6 @@
 		background-size: 25em, 25em, auto, cover;
 		color: white;
 		cursor: default;
-		padding-bottom: 300px;
 		text-align: center;
 	}
 
@@ -829,6 +828,7 @@
 			display: inline-block;
 			opacity: 0;
 			padding: 3em;
+			margin-top:150px;
 			margin-bottom: 300px;
 			text-align: center;
 		}
